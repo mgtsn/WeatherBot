@@ -11,8 +11,8 @@ import json
 import random
 import requests
 import datetime
-import sys
-sys.path.insert(0, '..\..')
+import os
+#sys.path.insert(0, '..\..')
 #from config import consumer_key, consumer_secret, access_token, access_token_secret, weather_api_key
 
 
